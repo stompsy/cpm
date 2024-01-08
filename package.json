@@ -1,0 +1,8 @@
+{
+	"scripts": {
+		"dev": "tailwindcss -i src/static/src/tailwindcss-input.css -o src/static/css/gdnhome-ui.css --watch"
+	},
+	"devDependencies": {
+		"tailwindcss": "^3.4.1"
+	}
+}
